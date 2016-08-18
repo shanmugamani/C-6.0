@@ -1,0 +1,6 @@
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\AutoPropertyInitializerExec\bin\Debug\AutoPropertyInitializerExec.exe.config
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\AutoPropertyInitializerExec\bin\Debug\AutoPropertyInitializerExec.exe
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\AutoPropertyInitializerExec\bin\Debug\AutoPropertyInitializerExec.pdb
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\AutoPropertyInitializerExec\obj\Debug\AutoPropertyInitializerExec.exe
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\AutoPropertyInitializerExec\obj\Debug\AutoPropertyInitializerExec.pdb
+C:\Users\rr205882\Documents\Visual Studio 2015\Projects\Csharp6Demo\AutoPropertyInitializerExec\obj\Debug\AutoPropertyInitializerExec.csprojResolveAssemblyReference.cache

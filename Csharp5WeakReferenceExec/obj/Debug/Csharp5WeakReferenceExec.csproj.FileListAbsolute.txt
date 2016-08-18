@@ -1,0 +1,5 @@
+C:\Users\rr205882\Documents\Visual Studio 2015\Projects\Csharp6Demo\Csharp5WeakReferenceExec\bin\Debug\Csharp5WeakReferenceExec.exe.config
+C:\Users\rr205882\Documents\Visual Studio 2015\Projects\Csharp6Demo\Csharp5WeakReferenceExec\bin\Debug\Csharp5WeakReferenceExec.exe
+C:\Users\rr205882\Documents\Visual Studio 2015\Projects\Csharp6Demo\Csharp5WeakReferenceExec\bin\Debug\Csharp5WeakReferenceExec.pdb
+C:\Users\rr205882\Documents\Visual Studio 2015\Projects\Csharp6Demo\Csharp5WeakReferenceExec\obj\Debug\Csharp5WeakReferenceExec.exe
+C:\Users\rr205882\Documents\Visual Studio 2015\Projects\Csharp6Demo\Csharp5WeakReferenceExec\obj\Debug\Csharp5WeakReferenceExec.pdb

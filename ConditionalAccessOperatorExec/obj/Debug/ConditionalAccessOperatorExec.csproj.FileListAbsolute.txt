@@ -1,0 +1,5 @@
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\ConditionalAccessOperatorExec\bin\Debug\ConditionalAccessOperatorExec.exe.config
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\ConditionalAccessOperatorExec\bin\Debug\ConditionalAccessOperatorExec.exe
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\ConditionalAccessOperatorExec\bin\Debug\ConditionalAccessOperatorExec.pdb
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\ConditionalAccessOperatorExec\obj\Debug\ConditionalAccessOperatorExec.exe
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\ConditionalAccessOperatorExec\obj\Debug\ConditionalAccessOperatorExec.pdb

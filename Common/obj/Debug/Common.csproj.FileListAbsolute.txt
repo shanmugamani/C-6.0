@@ -1,0 +1,4 @@
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\Common\bin\Debug\Common.dll
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\Common\bin\Debug\Common.pdb
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\Common\obj\Debug\Common.dll
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\Common\obj\Debug\Common.pdb

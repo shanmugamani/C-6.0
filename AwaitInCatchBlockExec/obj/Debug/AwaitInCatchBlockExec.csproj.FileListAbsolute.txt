@@ -1,0 +1,8 @@
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\AwaitInCatchBlockExec\bin\Debug\AwaitInCatchBlockExec.exe.config
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\AwaitInCatchBlockExec\bin\Debug\AwaitInCatchBlockExec.exe
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\AwaitInCatchBlockExec\bin\Debug\AwaitInCatchBlockExec.pdb
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\AwaitInCatchBlockExec\obj\Debug\AwaitInCatchBlockExec.exe
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\AwaitInCatchBlockExec\obj\Debug\AwaitInCatchBlockExec.pdb
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\AwaitInCatchBlockExec\bin\Debug\Common.dll
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\AwaitInCatchBlockExec\bin\Debug\Common.pdb
+c:\users\rr205882\documents\visual studio 2015\Projects\Csharp6Demo\AwaitInCatchBlockExec\obj\Debug\AwaitInCatchBlockExec.csprojResolveAssemblyReference.cache
